@@ -1,1 +1,2 @@
-# online-news-portal
+# phpmynewsigniter
+formerly online-news-portal
